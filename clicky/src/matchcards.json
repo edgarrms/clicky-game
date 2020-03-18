@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/images/anuel-aa.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/bad-bunny.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/daddy-yankee.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/farruko.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/J-Balvin.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/maluma.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/mau-y-ricky.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/ozuna.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/paulo-londra.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/sech.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/wisin-y-yandel.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/Zion-Y-Lennox.jpg",
+        "clicked": false
+    }
+]
